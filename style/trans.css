@@ -1,0 +1,20 @@
+/* .box{
+    color: blanchedalmond;
+    background-color: black;
+    /* transform: translate(100px,100px);
+    transform: rotate(-40deg); */
+    /* margin: 200px;
+     transform: scale(1,3);    /* size bada km krne ka lia  */
+     /* transform: skew(30deg);
+}  */
+
+div{
+    width: 100px;
+    height: 100px;
+    margin: 100px;
+    background-color: bisque;
+    border: 2px solid black;
+}
+#tra{
+    transform: perspective(100px) translateZ(-1px);
+}

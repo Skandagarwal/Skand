@@ -1,0 +1,26 @@
+h1{
+    color: black;
+    text-shadow: 2 px 2px 2px pink;
+    text-shadow: 3px 3px 3px blue;
+}
+.box{
+    background-color: blanchedalmond;
+    width: 200px;
+    height: 200px;
+    box-shadow: 10px 10px ; 
+    /* box-shadow: 1px 1px ,-1px -1px ; */
+}
+#right{
+    position: relative;
+    top: 1px; left: 160px;
+}
+#center{
+    position: relative;
+top: 40px; left: 40px;
+}
+.bigpara{
+    max-height: 100px;
+    border: 1px solid black;
+    margin: 20px;
+    overflow: scroll;
+}

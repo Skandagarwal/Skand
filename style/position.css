@@ -1,0 +1,42 @@
+p{
+    position: relative;
+    top: 100px;
+    left: 200px;
+}
+/* div{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    background-color: blanchedalmond;
+} */
+/* .box{
+    position: relative;
+    left: 500px;
+} */
+
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: blanchedalmond;
+    border: 2px solid black;
+}
+#sec{
+    position: relative;
+    top: -17px;
+    left: 190px;
+}
+#third{
+    position: relative;
+    top: 50px;
+    left: 95px;
+}
+#four{
+    position: relative;
+    top: 130px;
+}
+#five{
+    position: relative;
+    top: 110px;
+    left: 190px;
+}
+
